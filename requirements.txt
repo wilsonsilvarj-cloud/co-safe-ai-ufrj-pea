@@ -1,7 +1,0 @@
-streamlit
-openai
-pypdf
-lxml
-reportlab
-python-docx
-docxtpl
